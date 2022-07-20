@@ -1,5 +1,6 @@
 {
   "xsappname": "risk-management",
+  
   "scopes": [
     {
       "name": "$XSAPPNAME.RiskViewer",
